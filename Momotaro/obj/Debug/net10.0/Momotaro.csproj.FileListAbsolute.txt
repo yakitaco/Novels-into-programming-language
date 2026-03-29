@@ -1,0 +1,15 @@
+C:\Users\TANAKA\source\repos\Novels-into-programming-language\Momotaro\bin\Debug\net10.0\Momotaro.exe
+C:\Users\TANAKA\source\repos\Novels-into-programming-language\Momotaro\bin\Debug\net10.0\Momotaro.deps.json
+C:\Users\TANAKA\source\repos\Novels-into-programming-language\Momotaro\bin\Debug\net10.0\Momotaro.runtimeconfig.json
+C:\Users\TANAKA\source\repos\Novels-into-programming-language\Momotaro\bin\Debug\net10.0\Momotaro.dll
+C:\Users\TANAKA\source\repos\Novels-into-programming-language\Momotaro\bin\Debug\net10.0\Momotaro.pdb
+C:\Users\TANAKA\source\repos\Novels-into-programming-language\Momotaro\obj\Debug\net10.0\Momotaro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TANAKA\source\repos\Novels-into-programming-language\Momotaro\obj\Debug\net10.0\Momotaro.AssemblyInfoInputs.cache
+C:\Users\TANAKA\source\repos\Novels-into-programming-language\Momotaro\obj\Debug\net10.0\Momotaro.AssemblyInfo.cs
+C:\Users\TANAKA\source\repos\Novels-into-programming-language\Momotaro\obj\Debug\net10.0\Momotaro.csproj.CoreCompileInputs.cache
+C:\Users\TANAKA\source\repos\Novels-into-programming-language\Momotaro\obj\Debug\net10.0\Momotaro.sourcelink.json
+C:\Users\TANAKA\source\repos\Novels-into-programming-language\Momotaro\obj\Debug\net10.0\Momotaro.dll
+C:\Users\TANAKA\source\repos\Novels-into-programming-language\Momotaro\obj\Debug\net10.0\refint\Momotaro.dll
+C:\Users\TANAKA\source\repos\Novels-into-programming-language\Momotaro\obj\Debug\net10.0\Momotaro.pdb
+C:\Users\TANAKA\source\repos\Novels-into-programming-language\Momotaro\obj\Debug\net10.0\Momotaro.genruntimeconfig.cache
+C:\Users\TANAKA\source\repos\Novels-into-programming-language\Momotaro\obj\Debug\net10.0\ref\Momotaro.dll
